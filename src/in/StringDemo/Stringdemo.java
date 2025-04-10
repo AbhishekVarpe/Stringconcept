@@ -14,7 +14,7 @@ public class Stringdemo {
       else {
 		System.out.println("address is not same");
 	}
-      
+      String aString2 ="name";
       System.out.println(aString);
       if(aString.equals("abhishek"))
       {
