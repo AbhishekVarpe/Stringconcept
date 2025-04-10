@@ -19,6 +19,7 @@ public class Stringdemo {
       if(aString.equals("abhishek"))
       {
     	  System.out.println("both are same");
+    	  System.out.println("Here");
       }
       else {
 		System.out.println("both are not equals");
